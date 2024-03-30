@@ -1,0 +1,124 @@
+{
+"data": [
+{
+"id": 1,
+"attributes": {
+"title": "DOX Bag",
+"description": null,
+"price": 10,
+"quantity": null,
+"gender": null,
+"size": null,
+"slug": "dox-bag-1",
+"withinEnugu": null,
+"outsideEnugu": null,
+"internationlOrder": null,
+"createdAt": "2024-03-12T22:25:38.559Z",
+"updatedAt": "2024-03-12T22:45:16.293Z",
+"publishedAt": "2024-03-12T22:25:44.011Z",
+"images": {
+"data": [
+{
+"id": 9,
+"attributes": {
+"url": "https://res.cloudinary.com/dntzesy05/image/upload/v1710281589/dox_bag_f35953e438.jpg"
+}
+}
+]
+}
+}
+},
+{
+"id": 2,
+"attributes": {
+"title": "DOX tshirt",
+"description": null,
+"price": 650,
+"quantity": null,
+"gender": null,
+"size": null,
+"slug": "dox-tshirt",
+"withinEnugu": null,
+"outsideEnugu": null,
+"internationlOrder": null,
+"createdAt": "2024-03-12T22:26:35.062Z",
+"updatedAt": "2024-03-12T22:45:01.081Z",
+"publishedAt": "2024-03-12T22:45:01.078Z",
+"images": {
+"data": [
+{
+"id": 5,
+"attributes": {
+"url": "https://res.cloudinary.com/dntzesy05/image/upload/v1710281515/dox_tshirt_7272db2c91.jpg"
+}
+}
+]
+}
+}
+},
+{
+"id": 3,
+"attributes": {
+"title": "TEST",
+"description": "HHF",
+"price": 500,
+"quantity": null,
+"gender": null,
+"size": null,
+"slug": "test",
+"withinEnugu": null,
+"outsideEnugu": null,
+"internationlOrder": null,
+"createdAt": "2024-03-13T00:17:53.427Z",
+"updatedAt": "2024-03-13T00:18:04.513Z",
+"publishedAt": "2024-03-13T00:18:04.511Z",
+"images": {
+"data": [
+{
+"id": 2,
+"attributes": {
+"url": "https://res.cloudinary.com/dntzesy05/image/upload/v1710281512/Whats_App_Image_2024_02_09_at_12_15_37_AM_1_fab1cba05e.jpg"
+}
+}
+]
+}
+}
+},
+{
+"id": 4,
+"attributes": {
+"title": "DKDK",
+"description": "KDKDK",
+"price": 77,
+"quantity": null,
+"gender": null,
+"size": null,
+"slug": "dkdk",
+"withinEnugu": null,
+"outsideEnugu": null,
+"internationlOrder": null,
+"createdAt": "2024-03-13T00:18:26.668Z",
+"updatedAt": "2024-03-13T00:18:35.496Z",
+"publishedAt": "2024-03-13T00:18:35.494Z",
+"images": {
+"data": [
+{
+"id": 3,
+"attributes": {
+"url": "https://res.cloudinary.com/dntzesy05/image/upload/v1710281515/Whats_App_Image_2024_02_09_at_12_15_38_AM_84b8ea9864.jpg"
+}
+}
+]
+}
+}
+}
+],
+"meta": {
+"pagination": {
+"page": 1,
+"pageSize": 5,
+"pageCount": 1,
+"total": 4
+}
+}
+}
